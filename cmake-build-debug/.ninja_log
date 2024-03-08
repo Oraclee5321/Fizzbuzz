@@ -1,0 +1,15 @@
+# ninja log v5
+0	313	7316429950836426	CMakeFiles/Fizzbuzz.dir/main.cpp.obj	e384ce0cc5dc784b
+314	430	7316429951966710	Fizzbuzz.exe	ce4485b0ba3d2f5e
+2	318	7316432392924216	CMakeFiles/Fizzbuzz.dir/main.cpp.obj	e384ce0cc5dc784b
+319	399	7316432393703340	Fizzbuzz.exe	ce4485b0ba3d2f5e
+2	281	7316433728461561	CMakeFiles/Fizzbuzz.dir/main.cpp.obj	e384ce0cc5dc784b
+281	361	7316433729228838	Fizzbuzz.exe	ce4485b0ba3d2f5e
+1	273	7316433990733374	CMakeFiles/Fizzbuzz.dir/main.cpp.obj	e384ce0cc5dc784b
+273	357	7316433991538870	Fizzbuzz.exe	ce4485b0ba3d2f5e
+2	414	7316434404879007	CMakeFiles/Fizzbuzz.dir/main.cpp.obj	e384ce0cc5dc784b
+414	489	7316434405597761	Fizzbuzz.exe	ce4485b0ba3d2f5e
+2	271	7316434475940600	CMakeFiles/Fizzbuzz.dir/main.cpp.obj	e384ce0cc5dc784b
+272	360	7316434476795455	Fizzbuzz.exe	ce4485b0ba3d2f5e
+2	268	7316435109130614	CMakeFiles/Fizzbuzz.dir/main.cpp.obj	e384ce0cc5dc784b
+268	349	7316435109925823	Fizzbuzz.exe	ce4485b0ba3d2f5e
